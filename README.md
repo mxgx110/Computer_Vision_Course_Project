@@ -1,4 +1,4 @@
-# Computer_Vision_Project
+# Computer_Vision_Course_Project
 Modeling Temporal Dynamics and Spatial Configurations of Actions Using Deep Learning(LSTM, Attention)
 \
 Getting access to the notebook:
